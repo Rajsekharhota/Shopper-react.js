@@ -1,0 +1,104 @@
+.card1-bg {
+  background: url("../Pictures/product-1.jpeg");
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  overflow: hidden;
+  display: flex;
+  transition: all ease-in-out 0.5s;
+}
+
+.card1-bg:hover {
+  scale: 1.1;
+}
+
+.card1-bg > .card-body {
+  margin-top: 150px;
+}
+
+.card1-bg > .card-body > .my-auto > a {
+  text-decoration: none;
+  color: white;
+}
+
+.card2-bg {
+  background: url("../Pictures/product-2.jpeg");
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  overflow: hidden;
+  display: flex;
+  transition: all ease-in-out 0.5s;
+}
+
+.card2-bg:hover {
+  scale: 1.1;
+}
+
+.card2-bg > .card-body {
+  margin-top: 150px;
+  margin-left: -190px;
+}
+
+.card2-bg > .card-body > .my-auto > a {
+  text-decoration: none;
+  color: black;
+}
+
+.card3-bg {
+  background: url("../Pictures/product-3.jpeg");
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  overflow: hidden;
+  display: flex;
+  transition: all ease-in-out 0.5s;
+  z-index: 999;
+}
+
+.card3-bg:hover {
+  scale: 1.1;
+}
+
+.card3-bg > .card-body {
+  margin-top: 150px;
+  margin-left: -90px;
+}
+
+.card3-bg > .card-body > .my-auto > a {
+  text-decoration: none;
+  color: black;
+}
+
+.card4-bg {
+  background: url("../Pictures/picture-4.jpeg");
+  min-height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  overflow: hidden;
+  display: flex;
+  transition: all ease-in-out 0.5s;
+}
+
+.card4-bg:hover {
+  scale: 1.1;
+}
+
+.card4-bg > .card-body {
+  margin-top: 150px;
+  margin-left: -90px;
+}
+
+.card4-bg > .card-body > .my-auto > a {
+  text-decoration: none;
+  color: white;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+}

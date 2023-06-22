@@ -1,0 +1,27 @@
+.cart-container {
+  margin-top: 25px;
+  display: block;
+  align-items: center;
+}
+
+.plusQty,
+.minusQty {
+  margin: 5px;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  border-radius: 100%;
+}
+
+.col-9 {
+  background-color: azure;
+  padding: 40px;
+}
+
+.col-4 {
+  margin-top: 100px;
+}
+
+.features-section {
+  margin-top: 102px;
+}

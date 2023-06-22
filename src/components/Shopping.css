@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+header a:hover {
+  color: orange;
+  text-decoration: underline;
+}
+
+sup > a {
+  text-decoration: none;
+}
+header > span > a {
+  text-decoration: none;
+}
+
+.cart-quantity {
+  color: yellow;
+  font-size: 15px;
+  position: relative;
+  margin-top: -5px;
+  margin-left: -12px;
+  background-color: red;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.cart-quantity sup {
+  text-decoration: none;
+}

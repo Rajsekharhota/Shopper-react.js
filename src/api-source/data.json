@@ -1,0 +1,74 @@
+[
+  {
+    "itemId": 1,
+    "name": "Tribit XFree Go Headphones with Mic",
+    "color": "black",
+    "brand": "Tribit",
+    "modelname": "BTH71",
+    "formfactor": "Over Ear",
+    "connectortype": "Wireless",
+    "description": "Bluetooth 5.2 Wirelss Headphones, Hi-Fi Over Ear Headphones, Up to 34 Hrs & Wired Mode, Hands-free Calling & Built-in Mic,Foldable Design",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/71DbAq4nG1L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "itemId": 2,
+    "name": "Readgear Headphones with Mic",
+    "color": "black",
+    "brand": "Readgear",
+    "modelname": "BTH81",
+    "formfactor": "Over Ear",
+    "connectortype": "Wired",
+    "description": "Noise Cancellation,Bluetooth 5.2 Wirelss Headphones, Hi-Fi Over Ear Headphones, Up to 34 Hrs & Wired Mode, Hands-free Calling & Built-in Mic,Foldable Design",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/71PhCZEGH7L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "itemId": 3,
+    "name": "Boat Rockerz",
+    "color": "black",
+    "brand": "Boat",
+    "modelname": "BbTH1",
+    "formfactor": "Over Ear",
+    "connectortype": "Wireless",
+    "description": "Noise Cancellation,Bluetooth 5.2 Wirelss Headphones, Hi-Fi Over Ear Headphones, Up to 34 Hrs & Wired Mode, Hands-free Calling & Built-in Mic,Foldable Design",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/61gYxcIGjvL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "itemId": 4,
+    "name": "Zebronics Zeb-Thunder",
+    "color": "white",
+    "brand": "Zebronics",
+    "modelname": "zBTH81",
+    "formfactor": "Over Ear",
+    "connectortype": "Wireless",
+    "description": "Noise Cancellation,Bluetooth 5.2 Wirelss Headphones, Hi-Fi Over Ear Headphones, Up to 34 Hrs & Wired Mode, Hands-free Calling & Built-in Mic,Foldable Design",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/61vvmibZy8L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "itemId": 5,
+    "name": "BOSE",
+    "color": "white",
+    "brand": "BOSE",
+    "modelname": "BBTH811",
+    "formfactor": "Over Ear",
+    "connectortype": "Wireless",
+    "description": "Noise Cancellation,Bluetooth 5.2 Wirelss Headphones, Hi-Fi Over Ear Headphones, Up to 34 Hrs & Wired Mode, Hands-free Calling & Built-in Mic,Foldable Design",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/51CHPyFpnoL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "itemId": 6,
+    "name": "Sony Wh-Ch510",
+    "color": "blue",
+    "brand": "SONY",
+    "modelname": "SBTH510",
+    "formfactor": "Over Ear",
+    "connectortype": "Wireless",
+    "description": "Noise Cancellation,Bluetooth 5.2 Wirelss Headphones, Hi-Fi Over Ear Headphones, Up to 34 Hrs & Wired Mode, Hands-free Calling & Built-in Mic,Foldable Design",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/41i+KMBAFjL._AC_UY327_FMwebp_QL65_.jpg"
+  }
+]
